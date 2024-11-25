@@ -3,7 +3,6 @@ streamlit
 numpy
 scikit-learn
 joblib
-tensorflow
-numpy
+pandas
 matplotlib
 seaborn
